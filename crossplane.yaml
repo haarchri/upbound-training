@@ -13,4 +13,5 @@ spec:
       version: ">=v0.40.0"
     - provider: xpkg.upbound.io/upbound/provider-aws-rds
       version: ">=v0.40.0"
-
+    - configuration: xpkg.upbound.io/upbound/platform-ref-aws
+      version: ">=v0.6.0"
